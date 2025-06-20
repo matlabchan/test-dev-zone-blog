@@ -5,6 +5,8 @@
 *.slx.r*
 *.mdl.r*
 
+.DS_Store
+
 # Derived content-obscured files
 *.p
 
